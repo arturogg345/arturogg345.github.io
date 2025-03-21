@@ -1,0 +1,14 @@
+---
+title: "Online Residual Model Learning for Robust Predictive Control of Autonomous Vessels"
+collection: publications
+category: submitted
+permalink: /publication/rtncbf
+excerpt: 'In autonomous navigation, pre-planned trajectories are generally regarded as safe regions, and deviations from these trajectories can pose significant risks. Model Predictive Control (MPC) is a highly favored approach for trajectory tracking due to its inherent ability to manage operational constraints, including system dynamics and control limits. However, addressing model uncertainties and external disturbances for robots operating in real-world field environments continues to present a major challenge for MPC. This paper proposes an online residual model learning framework to increase robustness in MPC-based solutions, and effectively control autonomous vessels in field operations. Control Barrier Functions (CBFs) are integrated into the MPC as the first step to mitigate perturbations, ensuring safety by maintaining operations within predefined safe regions, such as reference trajectories. Furthermore, a neural network-based online residual learning model is utilized to dynamically capure model uncertainties and environmental disturbances in real time. The introduction of the learned dynamics within the MPC-CBF framework enables the system to generate more robust control inputs in real time, thereby improving overall control performance in dynamic field environments. The proposed online residual model learning-based MPC-CBF framework is validated through extensive simulations and field experiments conducted with an autonomous surface vehicle under model uncertainties and external disturbances. The results demonstrate that the online learning-based MPC-CBF control approach significantly enhances trajectory tracking performance, outperforming state-of-the-art MPC methods.'
+date: 2025-01-31
+venue: 'IROS'
+slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+paperurl: #'https://ieeexplore.ieee.org/abstract/document/10801632'
+citation: '<strong>A. Gamboa-Gonzalez</strong>, A. Gonzalez Garcia, and W. Wang, "Online Residual Model Learning for Robust Predictive Control of Autonomous Vessels," pending review.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. 

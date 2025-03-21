@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, Emphasis on Robotics and Controls, University of Wisconsin Madison, 2028 (expected)
+* B.S. in Robotics Engineering, University of California Santa Cruz, 2022
+* B.S. in Electrical Engineering, University of California Santa Cruz, 2022
 
 Work experience
 ======
@@ -53,12 +53,13 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Spring 2023: Volunteer at Sacred Heart Nativity School, San Jose
+* 2019-2020: Volunteer at Food not Bombs, Santa Cruz
